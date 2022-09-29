@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full stack DATA ANALYST @Udemy
 - 👯 I’m looking to collaborate on Power BI
 - 🤔 I’m looking for help with...
-- 💬 Ask me about Clean the DATA
+- 💬 Ask me about to Clean the DATA
 - 📫 How to reach me: ...
 - 😄 Pronouns:  He/Him 
 - ⚡ Fun fact: 
