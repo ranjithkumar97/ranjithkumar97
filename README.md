@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjithkumar97" alt="ranjithkumar97" /></a> </p>
 
-- 🔭 I’m currently working on **Financial Analyst**
+- 🔭 I’m currently working on **Financial Analysis** 
 
-- 🌱 I’m currently learning **Full stack Data Analyst@ Udemy**
+- 🌱 I’m currently learning **A crash course in Data Scienece @Johns Hopkins University**
 
 - 👯 I’m looking to collaborate on **Data Cleaning**
 
