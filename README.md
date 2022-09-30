@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Financial Analysis** 
 
-- 🌱 I’m currently learning **A crash course in Data Scienece @Johns Hopkins University**
+- 🌱 I’m currently learning **A crash course in Data Science @Johns Hopkins University**
 
 - 👯 I’m looking to collaborate on **Data Cleaning**
 
