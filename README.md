@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn1.iconfinder.com/data/icons/business-characters-2/66/78-512.png" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithkumar97&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithkumar97" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjithkumar97" alt="ranjithkumar97" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
